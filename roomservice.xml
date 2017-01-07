@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Project: 'https://github.com/AdrianDC/twrp_development_sony' -->
+<!-- Repo Init: 'repoinittwrp 7.1' -->
+<!-- Untracked: '' -->
+<manifest>
+
+  <project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-7.1" />
+  <project name="LineageOS/android_external_elfutils" path="external/elfutils" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
+
+  <project name="STRYDER-007/twrp_development_sony" path="device/sony/taoshan" remote="github" revision="device_sony_taoshan" />
+
+</manifest>
